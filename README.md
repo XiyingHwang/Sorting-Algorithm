@@ -1,2 +1,2 @@
 # Sorting-Algorithm
-hw6.pdf
+Please check hw6.pdf for the descriptions of this project.
